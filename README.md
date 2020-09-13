@@ -8,6 +8,8 @@ Hello unixporn, here is my first attempt at ricing. I wanted this to be Cyberpun
 + **Dock**: Latte-Dock
 + **Firefox**: Custom CSS with a custom startpage, linked in the repo.
 + **Theme**: Monochrome-KDE
++ **Other apps**: cava, hollywood, neofetch
+
 
 
 <img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/IMG_20200913_182636.jpg">
