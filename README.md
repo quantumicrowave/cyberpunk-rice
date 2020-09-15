@@ -12,10 +12,10 @@ Hello unixporn, here is my first attempt at ricing. I wanted this to be Cyberpun
 
 
 
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/IMG_20200913_182636.jpg">
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/Screenshot_20200913_182711.png">
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/Screenshot_20200913_182740.png">
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/Screenshot_20200913_182842.png">
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/Screenshot_20200913_233915.png">
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/Screenshot_20200913_234017.png">
-<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/screenshots/Screenshot_20200913_234339.png">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/IMG_20200913_182636.jpg">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/Screenshot_20200913_182711.png">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/Screenshot_20200913_182740.png">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/Screenshot_20200913_182842.png">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/Screenshot_20200913_233915.png">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/Screenshot_20200913_234017.png">
+<img src="https://github.com/gonsanbo/cyberpunk-rice/blob/master/images/Screenshot_20200913_234339.png">
